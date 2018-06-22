@@ -32,7 +32,7 @@ header.startup hr {
 }
 
 header.startup h1 {
-  font-size: rem; 
+  font-size: 2rem; 
 }
 
 .btn {
@@ -56,4 +56,5 @@ header.startup h1 {
   border-width: 5px;
   cursor: pointer;
 }
-  
+
+ 
